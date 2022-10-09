@@ -4,7 +4,7 @@
 ![Python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
 This repository is a out-of-the-box, rapid solution to Covid-19 diagnosis.
-Powered by a robust machine learning algorithm and a responsive front end you can receive an accurate Covid-19 diagnosis within seconds
+Powered by a robust machine learning algorithm and a responsive front end, you can receive an accurate Covid-19 diagnosis within seconds
 
 - Open the web application
 - Record yourself coughing
