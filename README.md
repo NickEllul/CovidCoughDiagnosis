@@ -17,7 +17,7 @@ This repository uses the following languages:
 - [Python] - Used for the entire data science process e.g. cleaning/preprocessing
 - [HTML/CSS] - For a beautiful and reliable front end!
 - [Javascript] - For creating an intricate web app that allows users to record themselves
-- [PHP] - Used to securely store log in credentials and recordings for more accurate predictions in the futurer
+- [PHP] - Used to securely store log in credentials and recordings for more accurate predictions in the future
 
 
 ## Installation 
